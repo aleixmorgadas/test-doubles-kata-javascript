@@ -1,0 +1,27 @@
+{
+  "name": "test-doubles-kata-javascript",
+  "version": "1.0.0",
+  "description": "Kata to practice Test Doubles in JavaScript with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleixmorgadas/test-doubles-kata-javascript.git"
+  },
+  "keywords": [
+    "test-doubles",
+    "javascript",
+    "kata"
+  ],
+  "author": "Aleix Morgadas <aleix.morgadas@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleixmorgadas/test-doubles-kata-javascript/issues"
+  },
+  "homepage": "https://github.com/aleixmorgadas/test-doubles-kata-javascript#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
